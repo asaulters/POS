@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+section{
+    border: 1px blue solid;
+    padding: 2%;
+    width: 90%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    width: 30%;
+    padding: 2%;
+    height: 100%;
+    margin: 1%;
+    
+
+}
+
+/* .tab{
+    display: flex;
+} */
+.tabNameList{
+    width: 50%;
+    border: 1px red solid;
+    float: left;
+   
+
+}
+.tabAmountList{
+    width: 45%;
+    border: 1px red solid;
+    float: right;
+    margin-right: 5%;
+}
